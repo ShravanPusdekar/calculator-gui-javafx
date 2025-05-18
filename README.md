@@ -52,7 +52,6 @@ This project consists of a **single Java class**:
 
 - **UI Components:**  
   Uses `Label`, `TextField`, `Button`, `HBox`, and `VBox` for structured layout.  
-  Applies inline CSS to style background color and error messages.
 
 - **Event Handling:**  
   Each operation button triggers the shared `calculate()` method with the operator as parameter.
